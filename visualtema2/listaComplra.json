@@ -1,0 +1,22 @@
+{ 
+
+    
+
+"carrito":[
+    {
+        "producto":"refresco",
+        "marca":"coca-cola"
+    },{
+        "producto":"leche",
+        "marca":"la asturiana"
+    },{
+        "producto":"galleras",
+        "marca":"principe"
+    }
+
+]
+  }   
+        
+
+
+

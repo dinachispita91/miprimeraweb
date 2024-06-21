@@ -1,0 +1,16 @@
+"libros": {
+
+"titulo":"Ama tu soledad",
+"año":15451,
+
+    "autor":{"nombre":"borja vilesca",
+        "nacionalidad":"española",},
+
+        "generos":["autoalluda",
+            "novela"],
+
+            "editorial":"Penguin Random House Grupo",
+
+                "esBetseller??": true,
+
+}

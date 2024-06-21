@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persona>
+	<nombre>Dina</nombre>
+	<apellidos>fernández hernandez</apellidos>
+	<edad>32</edad>
+
+		<direccion>
+			<calle>Monte Auseva</calle>
+			<numero>3445</numero>
+			<ciudad>Oviedo</ciudad>
+			</direccion>
+				
+<listadohobbies>
+	<hobbie faborito="si">viajar</hobbie>
+	<hobbie faborito="no">nadar</hobbie>
+	<hobbie faborito="no">caminar</hobbie>
+	<hobbie faborito="si">musica</hobbie>
+</listadohobbies>
+</persona>

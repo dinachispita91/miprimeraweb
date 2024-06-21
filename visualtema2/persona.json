@@ -1,0 +1,14 @@
+persona{
+    "nobre": "dina",
+    "apellido":"fernandez",
+    "edad":32,
+    "estatura": 1.53,
+    "direccion":{"calle":"monte auseva",
+                "ciudad":"oviedo",
+                "cp":545161,
+   2
+ },
+   "hobbies": ["fotografias",
+            "escalar",
+            "programar",]
+}

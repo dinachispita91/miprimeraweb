@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<listaviajeros>
+	<viajeros>
+		<nombre>Manuel Rodrigez<nombre>
+		<asiento>85</asiento>
+	</viajeros>
+
+<viajeros>
+	<nombre>Saul Martinez<nombre>
+	<asiento>86</asiento>
+ </viajeros>
+
+</listaviajeros>
